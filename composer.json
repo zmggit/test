@@ -1,5 +1,5 @@
 {
-    "name": "laravelacademy/urlscanner",
+    "name": "laravelacademy/zmggit",
     "description": "Scan URLs FROM A CSV FILE AND REPORT INACCESSIBLE URLs",
     "require": {
         "php": ">=5.4.0",
@@ -11,7 +11,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "zhugit",
+            "name": "zmggit",
             "email": "1551605159@qq.com"
         }
     ],
@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "LaravelAcademy\\UrlScanner\\": "src/"
+            "LaravelAcademy\\ZmgGit\\": "src/"
         }
     }
 }
